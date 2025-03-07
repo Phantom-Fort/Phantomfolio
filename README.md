@@ -48,7 +48,7 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Phantom-Fort/phantomfolio.github.io.git
+   git clone https://github.com/Phantom-Fort/Phantomfolio.git
    ```
 
 2. **Navigate to the project directory**:
@@ -65,7 +65,7 @@ This project is hosted using **GitHub Pages**:
 1. Go to your GitHub repository settings.
 2. Navigate to the **Pages** section.
 3. Set the branch to `main`.
-4. Your portfolio will be available at `https://phantom-fort.github.io/phantom-portfolio/`.
+4. Your portfolio will be available at `https://phantom-fort.github.io/Phantomtfolio/`.
 
 ## 🤝 Contributing
 
