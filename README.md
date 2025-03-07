@@ -4,6 +4,8 @@
 
 Welcome to **Phantom Portfolio**, a personal portfolio website showcasing my skills, certifications, projects, and experiences as a cybersecurity professional.
 
+![image](https://github.com/user-attachments/assets/3b97b7a7-81af-4c3f-98ff-50f5bf18fde6)
+
 ## 🚀 Live Demo
 
 You can view the live version of this portfolio hosted on **GitHub Pages**:
