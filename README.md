@@ -77,8 +77,8 @@ If you'd like to contribute:
 
 ## 📬 Contact
 
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/)
-- **X:** [@yourhandle](https://twitter.com/)
+- **LinkedIn:** [Ayomiposi Ayoola](http://www.linkedin.com/in/ayoola-ayomiposi-phantom)
+- **X:** [@Phantom_Fort](https://x.com/Phantom_Secure)
 - **Email:** posiayoola@gmail.com
 
 ---
