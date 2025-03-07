@@ -517,11 +517,11 @@ footer {
     border-bottom: 1px solid #333;
 }
 
-.certification-col {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5%;
-    justify-content: center;
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 1%;
 }
 
 .certification-block {
@@ -530,27 +530,44 @@ footer {
     border-radius: 4px;
     overflow: hidden;
     text-align: left;
+    width: 30%; /* Ensures three items per row */
+    margin-bottom: 3%;
 }
 
 .certification-block img {
-    width: 100%;
+    width: 100%; /* Adjusted to fit the card */
     height: auto;
     display: block;
 }
 
+.certification-block h3,
 .certification-block p {
     padding: 15px;
     color: #a0a0a0;
     font-size: 0.9em;
 }
 
-.projects {
+/* Responsive Design */
+@media only screen and (max-width: 1024px) {
+    .certification-block {
+        width: 45%; /* Two items per row on medium screens */
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .certification-block {
+        width: 100%; /* One item per row on small screens */
+    }
+}
+
+
+#projects {
     padding: 50px 15px;
     border-bottom: 1px solid #333;
     text-align: center;
 }
 
-.projects h2 {
+#projects h2 {
     color: #e0e0e0;
     margin-bottom: 50px;
 }
@@ -565,7 +582,7 @@ footer {
 }
 
 .project-image {
-    width: 50%;
+    width: 100%;
     float: left;
 }
 
