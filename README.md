@@ -53,7 +53,7 @@ To run this project locally:
 
 2. **Navigate to the project directory**:
    ```sh
-   cd phantom-portfolio
+   cd Phantomfolio
    ```
 
 3. **Open the `index.html` file in a browser**.
