@@ -521,7 +521,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
-    gap: 1%;
+    gap: 5%;
 }
 
 .certification-block {
@@ -531,7 +531,7 @@ footer {
     overflow: hidden;
     text-align: left;
     width: 30%; /* Ensures three items per row */
-    margin-bottom: 3%;
+    margin-bottom: 1%;
 }
 
 .certification-block img {
@@ -602,7 +602,7 @@ footer {
 
 .project-info h3 {
     font-size: 1.5em;
-    font-weight: 300;
+    font-weight: 400;
     color: #e0e0e0;
     margin: 0 0 15px 0;
 }
@@ -616,7 +616,7 @@ footer {
 .no-image .project-info {
     position: relative;
     margin: 0;
-    padding: 30px 15px;
+    padding: 30px 10px;
     transform: none;
 }
 
