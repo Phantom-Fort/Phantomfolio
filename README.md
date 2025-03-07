@@ -10,7 +10,7 @@ Welcome to **Phantom Portfolio**, a personal portfolio website showcasing my ski
 
 You can view the live version of this portfolio hosted on **GitHub Pages**:
 
-🔗 [Phantom Portfolio](https://Phantom-Fort.github.io/Phantom-Portfolio/)
+🔗 [Phantom Portfolio](https://Phantom-Fort/Phantomfolio.github.io/)
 
 ## 📌 Features
 
